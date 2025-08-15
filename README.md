@@ -71,6 +71,8 @@ python app.py
 #### 9. Access the Admin Panel.
 -After logging in, you will be redirected to the front page. There, click on the “Admin Panel” button to enter the restricted admin area of the demo website.
 
+<img width="1859" height="1016" alt="Screenshot 2025-08-16 010753" src="https://github.com/user-attachments/assets/19fee0f5-4cd9-40d2-b1fd-0a65590b6f21" />
+
 ![Screenshot 2025-08-14 134008](https://github.com/user-attachments/assets/7790a5a1-185d-488e-80ba-1a88855025aa)
 
 

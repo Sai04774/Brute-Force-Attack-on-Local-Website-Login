@@ -1,0 +1,6 @@
+admin
+administrator
+root
+admin1
+superadmin
+manager

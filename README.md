@@ -29,7 +29,7 @@ python app.py
 - Open Burp Suite and set up the browser to use Burp as a proxy.
 - Paste the Target URL in the Browser.
 
-<img width="1706" height="957" alt="Screenshot 2025-08-14 115952" src="https://github.com/user-attachments/assets/38cc43f0-bc45-4dd0-928c-4260e5eacbae" />
+<img width="1706" height="957" alt="Screenshot 2025-08-14 115952" src="https://github.com/user-attachments/assets/38cc43f0-bc45-4dd0-928c-4260e5eacbae" /><br></br>
 
 ![Screenshot 2025-08-14 132416](https://github.com/user-attachments/assets/ed6c4eba-3de3-4ca4-af22-eea54d33f928)
 
@@ -51,7 +51,7 @@ python app.py
 #### 6. Load Username/Password Lists.
 - Using the username.txt and password.txt file included in the repository, add the list of common usernames and passwords to the Intruder payload. 
 
-<img width="1487" height="439" alt="Screenshot 2025-08-14 125004" src="https://github.com/user-attachments/assets/44773611-b6e8-4b4d-85fb-2c40184b629c" />
+<img width="1487" height="439" alt="Screenshot 2025-08-14 125004" src="https://github.com/user-attachments/assets/44773611-b6e8-4b4d-85fb-2c40184b629c" /><br></br>
 
 <img width="1476" height="440" alt="Screenshot 2025-08-14 124828" src="https://github.com/user-attachments/assets/93619a0b-6403-4ceb-8304-c2959ce405b6" />
 
@@ -71,7 +71,7 @@ python app.py
 #### 9. Access the Admin Panel.
 -After logging in, you will be redirected to the front page. There, click on the “Admin Panel” button to enter the restricted admin area of the demo website.
 
-<img width="1859" height="1016" alt="Screenshot 2025-08-16 010753" src="https://github.com/user-attachments/assets/19fee0f5-4cd9-40d2-b1fd-0a65590b6f21" />
+<img width="1859" height="1016" alt="Screenshot 2025-08-16 010753" src="https://github.com/user-attachments/assets/19fee0f5-4cd9-40d2-b1fd-0a65590b6f21" /><br></br>
 
 ![Screenshot 2025-08-14 134008](https://github.com/user-attachments/assets/7790a5a1-185d-488e-80ba-1a88855025aa)
 
